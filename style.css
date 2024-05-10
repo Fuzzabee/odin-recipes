@@ -1,0 +1,20 @@
+body {
+    background-color: #2d3142;
+    color: #f6f2e8;
+    font-size: 20px;
+    text-align: center;
+}
+
+a {
+    color: #847c7c;
+}
+
+.recipe-photo {
+    width: 500px;
+    height: auto;
+}
+
+.ingredients,
+.steps {
+    text-align: left;
+}
